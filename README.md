@@ -433,4 +433,3 @@ python test_agents.py
 
 *"We're not just creating agents. We're creating creators of agents. And those creators can create more creators. It's Creators all the way down!"* 🌀✨
 
-**Created with meta-programming and recursive thinking. Co-authored by Claude Sonnet 4.5.**
