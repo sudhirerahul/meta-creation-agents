@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+agent*.py
+!agent.py
+creator_*.py
+!creator.py
+advisor_*.py
+idea*.md
+*_result.md
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
